@@ -1,7 +1,7 @@
 # EvolutionaryConvection
-Notebooks for evolutionary theory (with pattern information measures) of mesoscales in atmospheric convective cloud fields 
+Notebooks for evolutionary theory (with pattern information measures) of mesoscales in atmospheric convective cloud fields. These codes are behind the manuscript by Brian Mapes, to be submitted. 
 
-Companion notebooks (supplement) to [Mapes 2024 article](): Evolutionary theory of convective organization
+Companion notebooks (supplement) to [Brian Mapes 2024 article, *Evolutionary theory of convective organization*](). 
 
 
 
